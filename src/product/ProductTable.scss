@@ -1,0 +1,18 @@
+.productTable{
+    .MuiTableContainer-root{
+        max-width: 800px !important;
+    }
+
+    .MuiTableCell-head{
+        font-weight: 600;
+        font-size: 15px;
+    }
+
+    &__no-stock{
+        background: #ffc4c4;
+    }
+
+    &__category{
+        font-weight: 600 !important;
+    }
+}

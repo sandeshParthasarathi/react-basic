@@ -1,0 +1,13 @@
+.form-container{
+    margin: 20px 0px;
+
+    &__product-search{
+
+        .MuiInputLabel-outlined{
+            font-size: 14px;
+        }
+        .MuiOutlinedInput-input{
+            padding: 7px 10px;
+        }
+    }
+}
